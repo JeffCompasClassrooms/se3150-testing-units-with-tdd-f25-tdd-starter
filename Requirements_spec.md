@@ -1,7 +1,8 @@
 ***Requirements spec to show git merges***
 
 **Business Context**
-Git uses a really cool storage an accounting mechanism to keep track of changes remotely and locally.
+Git allows you to handle merge conflicts where two people edit the same file
+locally, and then push to the remote server.
 This demo shows you how to use merge resolution to deal with merge conflicts.
 
 **Problem Statement**
