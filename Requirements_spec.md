@@ -13,3 +13,5 @@ The problem arises when two people try to change the same code in the same file.
 The remote repo doesn't know how to allow you to 'merge' the changes. 
 
 Four score and seven years ago... 
+
+Now is the time for all good men to come to the aid of their country
