@@ -1,4 +1,4 @@
-this is an edit
+On line one there are some changes.
 
 ***Requirements spec to show git merges***
 
