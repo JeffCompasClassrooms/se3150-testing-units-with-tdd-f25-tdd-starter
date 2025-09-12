@@ -1,6 +1,3 @@
-this is from a different window.
-this is an edit
-
 ***Requirements spec to show git merges***
 
 **Business Context**
