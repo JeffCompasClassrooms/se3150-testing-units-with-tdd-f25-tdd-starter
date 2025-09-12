@@ -11,9 +11,9 @@ Here are some changes from window 2
 The problem arises when two people try to change the same code in the same file. 
 The remote repo doesn't know how to allow you to 'merge' the changes. 
 
-Four score and seven years ago...
+Four score and seven years ago
 
-We hold these truths to be self evident... 
+We hold these truths to be self evident
 
 Now is the time for all good men to come to the aid of their country
 
