@@ -8,5 +8,7 @@ This demo shows you how to use merge resolution to deal with merge conflicts.
 The problem arises when two people try to change the same code in the same file. 
 The remote repo doesn't know how to allow you to 'merge' the changes. 
 
+This is a new line and won't cause a merge conflict - we can merge automatically.
+
 
 
